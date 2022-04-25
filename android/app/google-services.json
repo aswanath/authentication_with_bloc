@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083638907384",
+    "project_id": "authtest-7b377",
+    "storage_bucket": "authtest-7b377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083638907384:android:3057630f5d29d708acd60d",
+        "android_client_info": {
+          "package_name": "com.example.authentication_with_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083638907384-vbdbtqdk54uajbt91te94nhkdo4dso2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC-aVRN00qldQN5iFJWyA5Ds9qPeilrHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083638907384-vbdbtqdk54uajbt91te94nhkdo4dso2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
